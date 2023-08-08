@@ -1,0 +1,14 @@
+.sectionSubTag {
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 12px;
+}
+.box-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 82%;
+    margin: auto;
+    height: 90%;
+}
