@@ -1,3 +1,7 @@
 Hosted on netlify:
 
 https://64d1de08b9a0da32a4d3c5f0--tranquil-babka-3cdc95.netlify.app/
+
+github link:
+
+https://github.com/srijan9051/tech-website_fully-responsive.git
